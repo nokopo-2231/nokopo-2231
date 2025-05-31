@@ -15,7 +15,7 @@ Here’s what I’m working on now:
 
 📫 Connect with me on X: [@n_popsoph](https://x.com/n_popsoph)  
 🌐 Portfolio: [https://popsoph.com](https://popsoph.com)  
-💻 GitHub: [https://github.com/nokopo-2231](https://github.com/nokopo-2231)
+💻 GitHub: [https://github.com/nokopo-2231/portfolio](https://github.com/nokopo-2231/portfolio)
 
 Skills & Tools:
 
