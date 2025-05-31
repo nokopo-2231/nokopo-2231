@@ -1,10 +1,12 @@
-Hi there 👋 I'm Nocco  
+Hi there 👋 I'm Nocco.  
 With curiosity and a love of discovery, I’m growing day by day through hands-on learning in web creation.
 
-—  
-Communication × Aesthetics × Engineering = Creating systems that make ideas come alive.
+— 
+About Me
 
-教師で培った伝える力 × 留学で磨いた美意識 × エンジニアとしての再現力 ＝ “思い”が届く仕組みをつくる人。
+🌱Aesthetics × 🤝Communication × ✏️Engineering = Creating systems that make ideas come alive.
+
+留学で磨いた美意識 × 教師で培った伝える力 × エンジニアとしての再現力 ＝ “思い”が届く仕組みをつくる人。
 
 
 Here are some ideas to get you started:
