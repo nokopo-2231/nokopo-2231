@@ -1,6 +1,8 @@
 Hi there 👋 I'm Nocco.  
 With curiosity and a love of discovery, I’m growing day by day through hands-on learning in web creation.
 
+Currently working full-time as a freelance engineer.
+
 — 
 About Me
 
@@ -9,11 +11,11 @@ About Me
 留学で磨いた美意識 × 教師で培った伝える力 × エンジニアとしての再現力 ＝ “思い”が届く仕組みをつくる人。
 
 
-Here are some ideas to get you started:
+Here’s what I’m working on now:  
 
-🔭 Working on: Building my portfolio and taking on freelance projects  
 📫 Connect with me on X: [@n_popsoph](https://x.com/n_popsoph)  
-🌐 Portfolio: [https://popsoph.com](https://popsoph.com)
+🌐 Portfolio: [https://popsoph.com](https://popsoph.com)  
+💻 GitHub: [https://github.com/nokopo-2231](https://github.com/nokopo-2231)
 
 Skills & Tools:
 
