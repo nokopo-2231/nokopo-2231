@@ -6,9 +6,9 @@ Currently working full-time as a freelance engineer.
 — 
 About Me
 
-🌱Aesthetics × 🤝Communication × ✏️Engineering = Creating systems that make ideas come alive.
+🌱Design × 🤝Communication × ✏️Engineering = Creating systems that make ideas come alive.
 
-留学で磨いた美意識 × 教師で培った伝える力 × エンジニアとしての再現力 ＝ “思い”が届く仕組みをつくる人。
+デザイン × 伝える力 × エンジニアとしての再現力 ＝ “思い”が届く仕組みをつくる人。
 
 
 Here’s what I’m working on now:  
