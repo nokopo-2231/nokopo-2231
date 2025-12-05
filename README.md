@@ -1,8 +1,6 @@
 Hi there 👋 I'm Nocco.  
 With curiosity and a love of discovery, I’m growing day by day through hands-on learning in web creation.
 
-Currently working full-time as a freelance engineer.
-
 — 
 About Me
 
