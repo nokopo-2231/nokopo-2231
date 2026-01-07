@@ -23,4 +23,6 @@ Here’s what I’m working on now:
 
 </p>
 
+<h3 align="left">Stats:</h3>
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nokopo-2231&show_icons=true" />
