@@ -25,6 +25,8 @@ Here’s what I’m working on now:
 
 <p>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokopo-2231&commits_year=2020)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokopo-2231&show_icons=true&theme=radical)
 
 </p>
