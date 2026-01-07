@@ -25,4 +25,4 @@ Here’s what I’m working on now:
 
 <h3 align="left">Stats:</h3>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nokopo-2231&show_icons=true&layout=compact&theme=radical&custom_title=My%20GitHub%20Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nokopo-2231&show_icons=true&layout=compact&theme=dracula&custom_title=My%20GitHub%20Stats" />
