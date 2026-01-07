@@ -12,6 +12,7 @@ Here’s what I’m working on now:
 📫 Connect with me on X: [@n_popsoph](https://x.com/n_popsoph)  
 🌐 Portfolio: [https://popsoph.com](https://popsoph.com)  
 💻 GitHub: [https://github.com/nokopo-2231/portfolio](https://github.com/nokopo-2231/portfolio)
+✏️ My Project StudyRec: [https://github.com/nokopo-2231/studyrec]
 
 
 <h3 align="left">Technology Stack:</h3>
