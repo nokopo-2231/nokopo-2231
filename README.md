@@ -18,14 +18,11 @@ Here’s what I’m working on now:
 <h3 align="left">Technology Stack:</h3>
 
 <p align="left">  
-
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,react,php,docker)
-
 </p>
 
 <h3 align="left">Technology Stack:</h3>
 
 <p align="left">  
-![](https://github-readme-stats.vercel.app/api/top-langs?username=nokopo-2231e&show_icons=true&locale=en&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=nokopo-2231)
 </p>
