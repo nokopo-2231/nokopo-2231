@@ -16,4 +16,4 @@ Here’s what I’m working on now:
 
 
 <h3 align="left">Technology Stack:</h3>
-![](https://skillicons.dev/icons?i=html,css,js,typescript,php)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
