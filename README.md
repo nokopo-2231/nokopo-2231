@@ -25,8 +25,4 @@ Here’s what I’m working on now:
 
 <h3 align="left">Technology Stack:</h3>
 
-<p align="left">  
-  
-![](https://github-readme-stats.vercel.app/api/top-langs?username=nokopo-2231&show_icons=true&locale=en&layout=compact)
 
-</p>
