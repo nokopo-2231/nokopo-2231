@@ -27,6 +27,6 @@ Here’s what I’m working on now:
 
 <p align="left">  
   
-![](https://github-readme-stats.vercel.app/api/top-langs?username=nokopo-2231)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=nokopo-2231&show_icons=true&locale=en&layout=compact)
 
 </p>
