@@ -23,6 +23,4 @@ Here’s what I’m working on now:
 
 </p>
 
-<h3 align="left">Technology Stack:</h3>
-
 
