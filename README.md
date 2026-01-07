@@ -21,4 +21,6 @@ Here’s what I’m working on now:
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,react,php,docker)
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=nokopo-2231e&show_icons=true&locale=en&layout=compact)
+
 </p>
