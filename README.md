@@ -1,18 +1,34 @@
-Hi there 👋 I'm Nocco.  
-With curiosity and a love of discovery, I’m growing day by day through hands-on learning in web creation.
+## Hi there 👋 I'm Nocco
 
-— 
-About Me
+Frontend Engineer (React / Next.js / TypeScript)  
+Focused on building practical, user-centered web applications with strong attention to UX and data-driven improvements.
 
-🌱Design × 🤝Communication × ✏️Engineering = Creating systems that make ideas come alive.
+---
 
+### 🚀 About Me
+- 13 years as a teacher → transitioned into software engineering
+- Strong in structuring problems and turning ideas into working products
+- Focus on usability, performance, and continuous improvement through iteration
 
-Here’s what I’m working on now:  
+---
 
-📫 Connect with me on X: [@n_popsoph](https://x.com/n_popsoph)  
-🌐 Portfolio: [https://popsoph.com](https://popsoph.com)  
-💻 GitHub: [https://github.com/nokopo-2231/portfolio](https://github.com/nokopo-2231/portfolio)  
-✏️ My Project StudyReco: [https://github.com/nokopo-2231/studyrec]
+### 🔍 Featured Project
+#### StudyReco
+A learning tracking app designed to reduce friction in recording study time and improve user retention.
+
+- Timer-based logging system to eliminate manual input
+- Data handled in seconds to avoid floating point errors
+- UX improvements based on 1-month usage testing cycle
+
+👉 [https://studyreco.web.app]
+👉 [https://github.com/nokopo-2231/studyrec]
+
+---
+
+### 🌐 Links
+- Portfolio: https://popsoph.com
+- X: @n_popsoph
+
 
 
 <h3 align="left">Technology Stack:</h3>
