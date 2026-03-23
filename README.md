@@ -21,8 +21,9 @@ A learning app designed to improve study consistency by minimizing friction betw
 - State lifted to a single source of truth to prevent UI/data inconsistency  
 - AI-generated feedback triggered immediately after each record  
 
-👉 **Live Demo**: https://studyreco.web.app  
-👉 **Repository**: https://github.com/nokopo-2231/studyrec
+👉 Live Demo: https://studyreco.web.app  
+👉 Repository: https://github.com/nokopo-2231/studyrec
+
 ---
 
 ### 🌐 Links
