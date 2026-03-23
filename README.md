@@ -28,7 +28,7 @@ A learning app designed to improve study consistency by minimizing friction betw
 
 ### 🌐 Links
 - Portfolio: https://popsoph.com
-- X: @n_popsoph
+- X: https://x.com/n_popsoph
 
 
 
