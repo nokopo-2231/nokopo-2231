@@ -14,15 +14,15 @@ Focused on building practical, user-centered web applications with strong attent
 
 ### 🔍 Featured Project
 #### StudyReco
-A learning tracking app designed to reduce friction in recording study time and improve user retention.
+A learning app designed to improve study consistency by minimizing friction between action and feedback.
 
-- Timer-based logging system to eliminate manual input
-- Data handled in seconds to avoid floating point errors
-- UX improvements based on 1-month usage testing cycle
+- Timer-based logging system to eliminate manual input  
+- Data unified in seconds (integer) to resolve floating-point errors and ensure consistency  
+- State lifted to a single source of truth to prevent UI/data inconsistency  
+- AI-generated feedback triggered immediately after each record  
 
-👉 [https://studyreco.web.app]
-👉 [https://github.com/nokopo-2231/studyrec]
-
+👉 **Live Demo**: https://studyreco.web.app  
+👉 **Repository**: https://github.com/nokopo-2231/studyrec
 ---
 
 ### 🌐 Links
