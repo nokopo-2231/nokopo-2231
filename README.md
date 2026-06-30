@@ -1,14 +1,15 @@
 ## Hi there 👋 I'm Nocco
 
-Frontend Engineer (React / Next.js / TypeScript)  
-Focused on building practical, user-centered web applications with strong attention to UX and data-driven improvements.
+Web Engineer
+Transitioned from 13 years of teaching to software engineering. 
+Passionate about building intuitive, performant, and user-centered web applications.
 
 ---
 
 ### 🚀 About Me
-- 13 years as a teacher → transitioned into software engineering
+- Bridging pedagogical expertise with engineering to build products that solve real-world problems
 - Strong in structuring problems and turning ideas into working products
-- Focus on usability, performance, and continuous improvement through iteration
+- Currently expanding skills into full-stack development
 
 ---
 
